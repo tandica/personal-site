@@ -1,0 +1,13 @@
+.title {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 200;
+  /* display: flex; */
+  text-align: center;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 200;
+  margin-left: 10em;
+  margin-right: 10em;
+}
