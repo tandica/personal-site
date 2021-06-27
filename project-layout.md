@@ -20,4 +20,5 @@ Interests page
 - photography
 - architecture projects/drawings/rendering
 - paintings
+- graphic design
 

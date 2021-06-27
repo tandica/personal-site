@@ -1,12 +1,27 @@
 .title {
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   font-weight: 200;
-  /* display: flex; */
   text-align: center;
+  /* margin-top: 5em; */
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+  border-radius: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 7em;
 }
 
 body {
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   font-weight: 200;
   margin-left: 10em;
   margin-right: 10em;
